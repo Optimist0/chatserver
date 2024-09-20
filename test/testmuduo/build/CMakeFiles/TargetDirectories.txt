@@ -1,0 +1,3 @@
+/home/optimist/C++/testmuduo/build/CMakeFiles/server.dir
+/home/optimist/C++/testmuduo/build/CMakeFiles/edit_cache.dir
+/home/optimist/C++/testmuduo/build/CMakeFiles/rebuild_cache.dir
